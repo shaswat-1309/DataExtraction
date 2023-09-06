@@ -12,7 +12,7 @@ import java.util.List;
 public class ExtractionEngine {
 
     // The API key for the News API
-    private static final String API_KEY = "4614ec99fd7e4700976750e308bcbe68";
+    private static final String API_KEY = "key";
 
     // The API endpoint for the News API
     private static final String API_ENDPOINT = "https://newsapi.org/v2/everything?";
