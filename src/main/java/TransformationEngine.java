@@ -20,7 +20,7 @@ public class TransformationEngine {
     /**
      * The connection string for the MongoDB database.
      */
-    static ConnectionString connectionString = new ConnectionString("mongodb+srv://shaswatdoshi000:HJNWwHf2sfXoyZIl@cluster0.xocy03t.mongodb.net/?retryWrites=true&w=majority");
+    static ConnectionString connectionString = new ConnectionString("connection_url");
 
     /**
      * The settings for the MongoDB client.
